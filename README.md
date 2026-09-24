@@ -1,26 +1,36 @@
+<div align="center">
 
 # 🇱🇰 First PR Playground - සිංහලෙන්
 
-### GitHub ඉගෙන ගන්න ලංකාවේ ලමයිට හදපු පලවෙනි තැන
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=ඔයාගේ+පලවෙනි+Pull+Request+එක+දාමුද%3F;Code+කරන්න+බය+වෙන්න+එපා!;100%25+සිංහලෙන්+උගන්වනවා+🇱🇰)](https://git.io/typing-svg)
 
-බය වෙන්න එපා! ඔයාගේ පලවෙනි Pull Request එක දාන්න හොඳම තැන මේකයි. වැරදුනට කමක් නෑ.
+![Stars](https://img.shields.io/github/stars/ranasingeisukhitha-max/first-pr-playground-sinhala?style=social)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Made with Sinhala](https://img.shields.io/badge/Made%20with-සිංහල-red)
 
-### 🚀 කොහොමද එකතු වෙන්නේ? (විනාඩි 2යි)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9sZ3ZhZzZ3Z3Z3Z3Z3Z3Z3Z3Z3/giphy.gif" width="400" />
 
-**Step 1:** මේ Repo එක Fork කරන්න
-**Step 2:** `students/` folder එකේ `ඔයාගේ-nama.md` file එකක් හදන්න
-**Step 3:** මෙහෙම ලියන්න:
-- Name: ඔයාගේ නම
-- School: ඉස්කෝලේ
-- Hobby: කැමති දෙයක්
-- Goal: මොකක්ද වෙන්න ඕන
-- GitHub: username එක
+### 🎮 ලංකාවේ පළවෙනි සිංහල GitHub Playground එක!
 
-**Step 4:** Pull Request දාන්න. අපි Accept කරනවා! ✅
+**Code කරන්න දන්නේ නැද්ද? අවුලක් නෑ! මේක ඔයාට Game එකක් වගේ!**
 
-### 🌟 ඇයි මේක වැදගත්?
-- GitHub Profile එක කොල වෙනවා
-- Open Source ඉගෙන ගන්නවා
-- CV එකට දාන්න පුලුවන්
+</div>
 
-Star එකක් දාන්න අමතක කරන්න එපා ⭐
+---
+
+### 🤔 මේක මොකක්ද?
+
+> ඔයා GitHub ඉගෙන ගන්න තැනක්. මෙතන වැරදුනාට අවුලක් නෑ. හැමෝම අලුතෙන් ඉගෙන ගන්නේ මෙතනින්!
+
+---
+
+### 🚀 පටන් ගන්නේ කොහොමද? (විනාඩි 2යි!)
+
+#### Step 1: ⭐ Star එකක් දාන්න
+උඩ තියෙන Star button එක ඔබන්න. (ඔයාගේ පළවෙනි GitHub Star එක!)
+
+#### Step 2: 🍴 Fork කරන්න
+උඩ දකුණේ තියෙන **Fork** බොත්තම ඔබන්න. එතකොට මේක ඔයාගේ account එකට copy වෙනවා.
+
+#### Step 3: 📝 ඔයාගේ නම දාන්න
+`
